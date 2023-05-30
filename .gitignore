@@ -1,0 +1,9 @@
+# Environments
+env
+*/.env
+
+.env
+.idea/*
+__pycache__
+
+requests.db
